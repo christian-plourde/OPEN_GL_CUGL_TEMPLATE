@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Computer Science Assignments/COMP 477 Assignments/OPEN_GL_CUGL_TEMPLATE/cugl.cpp" "D:/Computer Science Assignments/COMP 477 Assignments/OPEN_GL_CUGL_TEMPLATE/cmake-build-debug/CMakeFiles/OPEN_GL_CUGL_TEMPLATE.dir/cugl.cpp.obj"
-  "D:/Computer Science Assignments/COMP 477 Assignments/OPEN_GL_CUGL_TEMPLATE/main.cpp" "D:/Computer Science Assignments/COMP 477 Assignments/OPEN_GL_CUGL_TEMPLATE/cmake-build-debug/CMakeFiles/OPEN_GL_CUGL_TEMPLATE.dir/main.cpp.obj"
+  "D:/source/OPEN_GL_CUGL_TEMPLATE/cugl.cpp" "D:/source/OPEN_GL_CUGL_TEMPLATE/cmake-build-debug/CMakeFiles/OPEN_GL_CUGL_TEMPLATE.dir/cugl.cpp.obj"
+  "D:/source/OPEN_GL_CUGL_TEMPLATE/main.cpp" "D:/source/OPEN_GL_CUGL_TEMPLATE/cmake-build-debug/CMakeFiles/OPEN_GL_CUGL_TEMPLATE.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

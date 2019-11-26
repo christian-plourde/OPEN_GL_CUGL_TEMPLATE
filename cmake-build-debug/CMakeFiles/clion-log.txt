@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe" "-DCMAKE_C_COMPILER=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe" -G "CodeBlocks - MinGW Makefiles" "D:\Computer Science Assignments\COMP 477 Assignments\OPEN_GL_CUGL_TEMPLATE"
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\source\OPEN_GL_CUGL_TEMPLATE
 -- The C compiler identification is GNU 8.1.0
 -- The CXX compiler identification is GNU 8.1.0
 -- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
@@ -16,4 +16,4 @@
 -- Found OpenGL: opengl32   
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Computer Science Assignments/COMP 477 Assignments/OPEN_GL_CUGL_TEMPLATE/cmake-build-debug
+-- Build files have been written to: D:/source/OPEN_GL_CUGL_TEMPLATE/cmake-build-debug
